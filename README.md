@@ -1,6 +1,6 @@
 # Innocent_bird_game
 
-#### This game is developed by Alkim ALTUN ATANASOV as Ironhack Module-1 Project.You can play this game via this link ; (http://127.0.0.1:5500/index.h)
+#### This game is developed by Alkim ALTUN ATANASOV as Ironhack Module-1 Project.You can play this game via this link ; (https://alkim-tech.github.io/innocent-bird-game/)
 
 # Game Rules:
 
